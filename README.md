@@ -1,7 +1,10 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Welcome%20to%20Arka%20Nath's%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Welcome%20to%20Arka%20Nath's%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF" />
 </p>
+>
+
+
 
 <!-- Name and Profile Views -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arka Nath</h1>
