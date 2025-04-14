@@ -4,7 +4,9 @@
 </p>
 
 <!-- Name and Profile Views -->
-<h1 align="center">Hi,👋 I'm Arka Nath 👨‍💻</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arka Nath</h1>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AriyaArKa&label=Profile+Views&color=0e75b6&style=flat" alt="AriyaArKa" />
@@ -12,19 +14,15 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/AriyaArKa?tab=repositories">
-    <img src="https://img.shields.io/github/followers/AriyaArKa?label=Followers&style=social" alt="GitHub Followers" />
+  <a href="https://github.com/AriyaArKa?tab=followers">
+    <img src="https://img.shields.io/github/followers/AriyaArKa?label=Followers&style=for-the-badge" alt="GitHub Followers" />
   </a>
-  <a href="https://github.com/AriyaArKa">
-    <img src="https://img.shields.io/github/stars/AriyaArKa?affiliations=OWNER&style=social" alt="GitHub Stars" />
-  </a>
-  <a href="https://www.facebook.com/arkabraj.arka">
-    <img src="https://img.shields.io/badge/Facebook-Arka%20Nath-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="mailto:arkaofficialmailbox@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-arkaofficialmailbox@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
+  &nbsp; <!-- adds spacing -->
+  <a href="https://github.com/AriyaArKa?tab=stars">
+    <img src="https://img.shields.io/github/stars/AriyaArKa?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars" />
   </a>
 </p>
+
 
 #
 
@@ -34,9 +32,7 @@
 </p>
 
 
-#
-
-### 👨‍💻 About Me
+###  About Me
 
 🎓 KUET CSE 3RD YEAR | 💻 Developer | 🤖 AI & ML Enthusiast | 🎮 Game Designer | Graphics Designer
 🌍 Based in **Bangladesh** | 🕒 UTC +6  
@@ -56,9 +52,9 @@
 
 #
 
-### 🛠️ Skills & Tools
+###  Skills & Tools
 ---
-#### 🧑‍💻 Programming
+#### Programming
 
 
 <div style="white-space: nowrap;">
@@ -100,14 +96,14 @@
 #
 
 
-#### 🧠 AI / ML
+####  AI / ML
 
 ![YOLO](https://img.shields.io/badge/-YOLOv8-FF1493?style=flat)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-7E57C2?style=flat)
 #
 
-#### 🌐 Web & App Dev
+####  Web & App Dev
 
 <div style="white-space: nowrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" alt="Firebase" title="Firebase" width="40" height="40"/>
@@ -119,7 +115,7 @@
 #
 
 
-#### 🔧 Tools
+####  Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
@@ -159,7 +155,7 @@
 
 
 
-### 🐍 Contribution Graph
+###  Contribution Graph
 
 ![snake gif](https://github.com/AriyaArKa/AriyaArKa/blob/output/github-snake-dark.svg)
 
