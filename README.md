@@ -5,37 +5,30 @@
 
 <!-- Name and Profile Views -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arka Nath</h1>
-
-
+<h3 align="center">Open Source | AI & ML Enthusiast | Web Dev | Game Dev | Graphics Designer</h3>
+<br>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AriyaArKa&label=Profile+Views&color=0e75b6&style=flat" alt="AriyaArKa" />
-</p>
-
-<!-- Badges -->
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AriyaArKa&label=Profile+Views&color=0e75b6&style=flat" alt="AriyaArKa" width="150" height="30" />
+  &nbsp; <!-- adds spacing -->
   <a href="https://github.com/AriyaArKa?tab=followers">
-    <img src="https://img.shields.io/github/followers/AriyaArKa?label=Followers&style=for-the-badge" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/followers/AriyaArKa?label=Followers&style=flat" alt="GitHub Followers" width="150" height="30" />
   </a>
   &nbsp; <!-- adds spacing -->
   <a href="https://github.com/AriyaArKa?tab=stars">
-    <img src="https://img.shields.io/github/stars/AriyaArKa?affiliations=OWNER&style=for-the-badge" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/stars/AriyaArKa?affiliations=OWNER&style=flat" alt="GitHub Stars" width="150" height="30" />
   </a>
 </p>
 
 
 #
-
 <!-- Dynamic Quote Generator -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=00F700&center=true&vCenter=true&width=600&lines=Developer+by+Day%2C+Dreamer+by+Night.;Keep+Learning%2C+Keep+Building.;AI+%7C+ML+%7C+Game+Dev+%7C+Web+%26+App+Builder;Made+with+💙+from+Bangladesh" />
 </p>
 
 
-###  About Me
 
-🎓 KUET CSE 3RD YEAR | 💻 Developer | 🤖 AI & ML Enthusiast | 🎮 Game Designer | Graphics Designer
-#
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/arkabraja.arka?mibextid=ZbWKwL" target="blank">
@@ -49,7 +42,6 @@
   </a>
 </p>
 
-#
 
 ###  Skills & Tools
 ---
