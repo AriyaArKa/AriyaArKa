@@ -35,7 +35,6 @@
 ###  About Me
 
 🎓 KUET CSE 3RD YEAR | 💻 Developer | 🤖 AI & ML Enthusiast | 🎮 Game Designer | Graphics Designer
-🌍 Based in **Bangladesh** | 🕒 UTC +6  
 #
 <h3 align="left">Connect with me:</h3>
 <p align="left">
