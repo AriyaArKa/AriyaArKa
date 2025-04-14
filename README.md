@@ -113,7 +113,7 @@
 
 ### 🐍 Contribution Graph
 
-![snake gif](https://github.com/AriyaArKa/AriyaArKa/blob/output/github-snake-dark.gif)
+![snake gif](https://github.com/AriyaArKa/AriyaArKa/blob/output/github-snake-dark.svg)
 
 
 
