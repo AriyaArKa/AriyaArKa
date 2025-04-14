@@ -4,7 +4,7 @@
 </p>
 
 <!-- Name and Profile Views -->
-<h1 align="center">Hi, I'm Arka Nath 👨‍💻</h1>
+<h1 align="center">Hi,👋 I'm Arka Nath 👨‍💻</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AriyaArKa&label=Profile+Views&color=0e75b6&style=flat" alt="AriyaArKa" />
@@ -40,7 +40,19 @@
 
 🎓 KUET CSE 3RD YEAR | 💻 Developer | 🤖 AI & ML Enthusiast | 🎮 Game Designer | Graphics Designer
 🌍 Based in **Bangladesh** | 🕒 UTC +6  
-📬 Reach me: [arkabraja.arka](https://www.facebook.com/arkabraja.arka)
+#
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.facebook.com/arkabraja.arka?mibextid=ZbWKwL" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/arka-nath55?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/ariya.arka?igsh=dWh0dzNhcGd3d281" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 #
 
@@ -142,11 +154,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AriyaArKa&show_icons=true&theme=github_dark&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriyaArKa&theme=github-dark-blue" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyaArKa&layout=compact&theme=github_dark&langs_count=10" /> 
 </p>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyaArKa&layout=compact&theme=github_dark&langs_count=10" /> 
-</p>
 
 
 ### 🐍 Contribution Graph
