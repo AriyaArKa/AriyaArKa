@@ -26,7 +26,7 @@
   </a>
 </p>
 
----
+#
 
 <!-- Dynamic Quote Generator -->
 <p align="center">
@@ -34,18 +34,18 @@
 </p>
 
 
----
+#
 
 ### 👨‍💻 About Me
 
-🎓 CSE Student | 💻 Developer | 🎮 Game Designer | 🤖 AI & ML Enthusiast  
+🎓 KUET CSE 3RD YEAR | 💻 Developer | 🤖 AI & ML Enthusiast | 🎮 Game Designer | Graphics Designer
 🌍 Based in **Bangladesh** | 🕒 UTC +6  
-📬 Reach me: [arkabraj.arka](https://www.facebook.com/arkabraj.arka)
+📬 Reach me: [arkabraja.arka](https://www.facebook.com/arkabraja.arka)
 
----
+#
 
 ### 🛠️ Skills & Tools
-
+---
 #### 🧑‍💻 Programming
 
 
@@ -60,7 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" title="PHP" width="40" height="40"/>
 </div>
 
-
+#
 
 #### 📚 Libraries & Frameworks
 
@@ -85,7 +85,7 @@
 </div>
 
 
-
+#
 
 
 #### 🧠 AI / ML
@@ -93,7 +93,7 @@
 ![YOLO](https://img.shields.io/badge/-YOLOv8-FF1493?style=flat)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F00?style=flat)
 ![Generative AI](https://img.shields.io/badge/-Generative%20AI-7E57C2?style=flat)
-
+#
 
 #### 🌐 Web & App Dev
 
@@ -104,7 +104,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android Studio" title="Android Studio" width="40" height="40"/>
 </div>
 
-
+#
 
 
 #### 🔧 Tools
@@ -124,9 +124,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
 </p>
 
-
-
-
 ---
 
 ### 🚀 Featured Projects
@@ -138,25 +135,25 @@
 🧠 [**Music Recommendation System**](https://github.com/AriyaArKa/Music-Recommendation-System)  
 🎮 [**TetraStack Vending Machine Game**](https://github.com/AriyaArKa/TetraStack-with-ICE_CREAM-vending-machine)
 
----
+#
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriyaArKa&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AriyaArKa&show_icons=true&theme=github_dark&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriyaArKa&theme=github-dark-blue" />
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyaArKa&layout=compact&theme=github_dark&langs_count=10" /> </p>
 
----
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyaArKa&layout=compact&theme=github_dark&langs_count=10" /> 
+</p>
+
 
 ### 🐍 Contribution Graph
 
 ![snake gif](https://github.com/AriyaArKa/AriyaArKa/blob/output/github-snake-dark.svg)
 
-
-
----
+#
 
 ### 🏆 Achievements
 
@@ -166,3 +163,6 @@
 - 🧮 Virtual AI Calculator  
 - 🔍 Research-oriented AI Projects  
 #
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AriyaArKa&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=8" />
+</p>
