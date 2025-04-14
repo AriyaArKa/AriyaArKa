@@ -114,8 +114,10 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://github.com/AriyaArKa/AriyaArKa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<!--   <img src="https://github.com/AriyaArKa/AriyaArKa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" /> -->
 </p>
+  ![snake gif](https://github.com/AriyaArKa/AriyaArKa/blob/output/github-snake-dark.svg)
+
 
 ---
 
