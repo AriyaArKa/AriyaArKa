@@ -108,6 +108,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AriyaArKa&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AriyaArKa&theme=github-dark-blue" />
 </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriyaArKa&layout=compact&theme=github_dark&langs_count=10" /> </p>
 
 ---
 
