@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Welcome%20to%20Arka%20Nath's%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn&fontColor=FFFFFF" />
 </p>
->
-
 
 
 <!-- Name and Profile Views -->
