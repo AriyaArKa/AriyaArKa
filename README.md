@@ -62,7 +62,7 @@
 
 #
 
-#### 📚 Libraries & Frameworks
+####  Libraries & Frameworks
 
 <div style="white-space: nowrap; display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
 
@@ -126,14 +126,14 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
-🌟 [**Android Ball Bounce Game**](https://github.com/AriyaArKa/Android-Ball-Bounce-game)  
-🔬 [**Plant Disease Detection App**](https://github.com/AriyaArKa/Plant-Disease-Detection-App)  
-📊 [**Prediction Models (Data Science)**](https://github.com/AriyaArKa/Prediction-Models)  
-🤖 [**AI Chatbot (Doctor)**](https://github.com/AriyaArKa/AI-Chabot)  
-🧠 [**Music Recommendation System**](https://github.com/AriyaArKa/Music-Recommendation-System)  
-🎮 [**TetraStack Vending Machine Game**](https://github.com/AriyaArKa/TetraStack-with-ICE_CREAM-vending-machine)
+ [**Android Ball Bounce Game**](https://github.com/AriyaArKa/Android-Ball-Bounce-game)  
+ [**Plant Disease Detection App**](https://github.com/AriyaArKa/Plant-Disease-Detection-App)  
+ [**Prediction Models (Data Science)**](https://github.com/AriyaArKa/Prediction-Models)  
+ [**AI Chatbot (Doctor)**](https://github.com/AriyaArKa/AI-Chabot)  
+ [**Music Recommendation System**](https://github.com/AriyaArKa/Music-Recommendation-System)  
+ [**TetraStack Vending Machine Game**](https://github.com/AriyaArKa/TetraStack-with-ICE_CREAM-vending-machine)
 
 #
 
@@ -150,22 +150,21 @@
 </p>
 
 
-
-
 ###  Contribution Graph
 
 ![snake gif](https://github.com/AriyaArKa/AriyaArKa/blob/output/github-snake-dark.svg)
 
 #
 
-### 🏆 Achievements
+###  Achievements
 
-- 💻 Consistent Open Source Contributor  
-- 🧠 Created ML/DL Apps from scratch  
-- 🎮 Multiple 2D/3D Games  
-- 🧮 Virtual AI Calculator  
-- 🔍 Research-oriented AI Projects  
+-  Consistent Open Source Contributor  
+-  Created ML/DL Apps from scratch  
+-  Multiple 2D/3D Games  
+-  Virtual AI Calculator  
+-  Research-oriented AI Projects  
 #
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AriyaArKa&theme=onedark&no-frame=true&no-bg=true&margin-w=15&column=8" />
 </p>
+
